@@ -1,0 +1,14 @@
+.main {
+  width: 800px;
+  margin: 60px auto;
+  padding: 20px;
+  background-color: darkslategray;
+}
+
+.message {
+  background-color: greenyellow;
+  color: darkolivegreen;
+  font-size: 28px;
+  padding: 10px;
+  margin-bottom: 20px;
+}
